@@ -23,7 +23,6 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://github.com/smrithy23/CP-HelloWorld/assets/89533461/04d35abf-915e-4df3-a276-91ae70efc94a' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Animation]()
 
 GIF created with ScreenToGif  
 <!-- Recommended tools:
