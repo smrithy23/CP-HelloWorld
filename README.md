@@ -33,7 +33,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I noticed that the video walk through mentioned clicking an "Empty Activity" to begin the pre-work. The latest version of Andriod Studio has an Empty Activity and an Empty Views Activity. The one that matches up with the video is the Empty View Activity.
 
 ## License
 
