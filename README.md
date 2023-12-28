@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Animation](https://github.com/smrithy23/CP-HelloWorld/assets/89533461/04d35abf-915e-4df3-a276-91ae70efc94a)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
